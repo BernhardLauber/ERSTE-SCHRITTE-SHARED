@@ -1,5 +1,4 @@
 Guten Morgen!
 Guten Mittag!
 
-Erneute Änderung im Original.
-
+Hello World!
